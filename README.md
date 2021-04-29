@@ -5,4 +5,6 @@ The web application is made by java 1.8, using Eclipse
 
 We Realized some basic security policies, such as login filter, verification code, anti SQL injection and so on, mainly through the back-end.
 
-The database you can use mysql, importing the file named travel.sql
+The database you can use mysql, importing the file named travel.sql.
+
+The main description you can see by downloading the docx files.
